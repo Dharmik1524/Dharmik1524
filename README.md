@@ -8,10 +8,11 @@
 
 ## 🚀 About Me
 
-- 🎥 I am a full stack web developer
+- 🎥 I am a full stack web developer and AI enthusiast
 - 💻 Passionate about building fullstack apps with React, Node.js and Express
-- 🧠 Constantly learning
+- 🤖 I enjoy integrating AI into web applications to enhance productivity and drive innovative solutions.
 - 🛠️ Focused on **performance**, **user experience**, and **clean UI**
+- 🧠 Constantly learning
 
 ---
 
